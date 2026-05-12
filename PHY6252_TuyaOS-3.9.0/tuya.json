@@ -1,0 +1,43 @@
+{
+    "SDKType": "1",
+    "bv": "40.00",
+    "chipInfoList": [
+        "wireless SoC/PhyPlus/Bluetooth/PHY6252"
+    ],
+    "feature": "https://images.tuyacn.com/smart/sdk/b71890e2c67129b0294bb856846a37f53fc13bf0.json",
+    "offShelfReasonCN": "",
+    "offShelfReasonEN": "",
+    "sdkDescCN": "beacon mesh (beacon2.0) for phy6252",
+    "sdkDescEN": "beacon mesh (beacon2.0) for phy6252",
+    "sdkId": 161002,
+    "sdkName": "tuyaos-subdev-beaconmesh-phy6252_adv-beacon_common",
+    "sdkVerDescCN": "VENDOR：\n1. 更新到最新版本，SN 采用双备份设计\n2. 去除警告\n\nDEMO：\n1.让其可以改一处宏，达到修改固件名和版本号的目的\n\n组件：\n1.同步到 6230（3.9.0） 一样版本",
+    "sdkVerDescEN": "VENDOR:\n1. Update to the latest version, SN adopts dual backup design\n2. Remove warning\n\nDEMO:\n1. Enable it to modify a macro to achieve the purpose of modifying the firmware name and version number\n\nComponent:\n1. Synchronize to the same version as 6230 (3.9.0)",
+    "sdkVersion": "0.1.20",
+    "sdkVersionFileSize": "26181194",
+    "sdkVersionMd5": "b177bd3a4d5d1afe88fd76c38113a2e2",
+    "sdkVersionOffShelf": false,
+    "tuyaosVersion": "TuyaOS-3.9.0",
+    "typeCode": "EmbeddedPackage-SubDevice:Beacon",
+    "typeNameCN": "子设备开发:蓝牙 Beacon Mesh 设备开发包",
+    "typeNameEN": "Sub-Device Development:Bluetooth Beacon Device Development Kit",
+    "quickStartDemoName": "",
+    "quickStartDemoAddr": "",
+    "typeDemoName": [
+        "tuyaos_demo_beaconmesh_peripheral_phy6252"
+    ],
+    "typeDemoAddr": [
+        "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/tuyaos_demo_beaconmesh_peripheral_phy6252_0.0.6.tar.gz"
+    ],
+    "package": {
+        "MainPackage": {
+            "Name": "tuyaos-subdev-beaconmesh_0.1.20_phy6252_adv_beacon_common_0.1.6.tar.gz"
+        },
+        "Packages": [],
+        "CurrentPackage": {
+            "Name": "tuyaos-subdev-beaconmesh_0.1.20_phy6252_adv_beacon_common_0.1.6.tar.gz"
+        }
+    },
+    "sdkVersionId": "355001",
+    "id": 161002
+}

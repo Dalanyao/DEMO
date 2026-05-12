@@ -1,0 +1,21 @@
+{
+    "OsVersion": "3.9.0",
+    "SDKType": "1",
+    "demo": {
+        "QuickstartDemo": {},
+        "TypeDemo": [
+            {
+                "Name": "tuyaos_demo_beaconmesh_peripheral_phy6252",
+                "Addr": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/tuyaos_demo_beaconmesh_peripheral_phy6252_0.0.6.tar.gz"
+            }
+        ]
+    },
+    "package": {
+        "MainPackage": {
+            "Name": "tuyaos-subdev-beaconmesh_0.1.20_phy6252_adv_beacon_common_0.1.6.tar.gz"
+        },
+        "Packages": []
+    },
+    "toolchain_pack_url": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/phy6252_adv_0.1.6.zip",
+    "AblityValue": {}
+}

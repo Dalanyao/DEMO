@@ -1,0 +1,1 @@
+烧录软件下载：https://images.tuyacn.com/rms-static/abb8dc60-bec0-11ec-838b-296cc196f8cc-1650249526566.rar?tyName=PhyPlusKit_V2.4.5g.rar
